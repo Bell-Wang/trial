@@ -1,4 +1,3 @@
 #test if R plot can be imported onto Github
 
-a<- rnorm(100)
-plot(a)
+plot (sin,-pi,2*pi)
