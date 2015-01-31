@@ -1,0 +1,12 @@
+\documentclass{article}
+
+\begin{document}
+
+wanna see how R is employed onto Github
+
+```{r}
+a<-rnorm(100)
+plot a
+```
+
+\end{document}
